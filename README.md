@@ -225,6 +225,7 @@ Cloudflare's free ecosystem is particularly useful because DNS/CDN/DDoS protecti
 | [Pingdom](https://www.pingdom.com)                          | Limited trial/free options may vary                |
 | [Cronitor](https://cronitor.io)                             | Free cron monitoring                               |
 | [Healthchecks.io](https://healthchecks.io)                  | Free cron monitoring                               |
+| [WatchCron](https://watchcron.com)                          | Free cron job monitoring with failure alerts        |
 | [Oh Dear](https://ohdear.app)                               | Free/limited options                               |
 | [Freshping](https://www.freshworks.com/website-monitoring/) | Free monitoring                                    |
 
@@ -720,6 +721,7 @@ The **Stripe CLI** (`stripe listen --forward-to localhost:3000/api/webhook`) for
 | [NASA APIs](https://api.nasa.gov)                       | Astronomy images, Mars rovers, asteroid data               |
 | [OpenStreetMap](https://www.openstreetmap.org)          | Global geographic map data                                 |
 | [Unsplash API](https://unsplash.com/developers)         | High-resolution photography (50 req/hour free)             |
+| [ScreenshotRun](https://screenshotrun.com)              | Screenshot API — capture webpages as PNG, JPEG, WebP, PDF  |
 | [Open Food Facts](https://world.openfoodfacts.org/data) | Open database of food barcodes and ingredients             |
 | [PokéAPI](https://pokeapi.co)                           | Pokémon data & sprites                                     |
 | [Jikan](https://jikan.moe)                              | Unofficial MyAnimeList REST API                            |
